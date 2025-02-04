@@ -1,6 +1,5 @@
 -  Hi, I’m @rexwalyash
-- I’m interested in Data Science Jobs.
-- Currently studying Advanced Machine Learning.
+- I’m interested in Data Analyst Jobs.
 - I’m currently working on real world datasets, performing EDA and Feature Engineering to prepare for Machine Learning.
 - I’m looking for a full time job.
 - reach me ...email- rexwalyash24@gmail.com, mobile- +1 6602387129
